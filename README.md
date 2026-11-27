@@ -6,8 +6,8 @@ Identitas Produk Perangkat Lunak:
 n backend, aset desain UI/UX di Figma, User Manual).
 * Merek (Trademark): Apa nama brand dan filosofi logo aplikasi Anda yang didaftarkan agar tidak ditiru orang lain? nama UMANARI digunakan untuk identitas perusahaan yang mencerminkan keprofesionalan dan juga kreativitas. logo UMANARI ini juga sebagai identitas supaya mudah dikenali dan juga memiliki karakter unik jadi dapat membedaka perusahaan dari kompetitot
 <p align="center">
-  <img src="./UMANARI_LOGO.jpg" 
-       alt="Logo UMANARI" 
+  <img src="./UMANARI_LOGO.jpg"
+       alt="Logo UMANARI"
        width="300">
 </p>
 Pemilihan Lisensi Distribusi:
